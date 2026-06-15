@@ -28,6 +28,6 @@ Then,
 
 ``python3 main.py``  
 
-And you're ready to go!
+And you're ready to go!  
 
-*Note: Still in development*
+*Note: Archived development*
